@@ -1,13 +1,13 @@
 # Data-analysis-Business-dataset
-# 📊 Dataset Overview
+# Dataset Overview
 
-## 📌 Introduction
+##  Introduction
 
 This dataset contains financial transaction records of users, including details about income, expenses, categories, payment methods, and user behavior. The objective of this analysis is to understand spending patterns, identify key expense drivers, and generate insights to support better financial decision-making.
 
 ---
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset consists of **15,000+ transaction records** with the following features:
 
@@ -22,7 +22,7 @@ The dataset consists of **15,000+ transaction records** with the following featu
 
 ---
 
-## ⚠️ Data Challenges
+##  Data Challenges
 
 The dataset required significant preprocessing due to:
 
@@ -34,7 +34,7 @@ The dataset required significant preprocessing due to:
 
 ---
 
-## 🧹 Data Cleaning Summary
+##  Data Cleaning Summary
 
 To ensure data quality, the following steps were performed:
 
@@ -47,7 +47,7 @@ To ensure data quality, the following steps were performed:
 
 ---
 
-## 🎯 Objective of Analysis
+##  Objective of Analysis
 
 The main goals of this analysis are:
 
